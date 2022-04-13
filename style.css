@@ -213,7 +213,7 @@ header {
 #top
 ====================================================================*/
 .top {
-  background: url(/img/mv@2x.png) no-repeat center center/cover;
+  background: url(https://github.com/th0210/github.io/blob/main/mv@2x.png?raw=true) no-repeat center center/cover;
   padding: 236px 0 153px 0;
   height: 648px;
   max-width: 1280px;
@@ -222,7 +222,7 @@ header {
 @media screen and (max-width: 767px) {
   .top {
     height: 667px;
-    background: url(/img/mv@2x.png) no-repeat center left -210px/cover;
+    background: url(https://github.com/th0210/github.io/blob/main/mv@2x.png?raw=true) no-repeat center left -210px/cover;
     position: relative;
     /*news*/
     max-width: 100%;
@@ -547,21 +547,21 @@ header {
   width: 64px;
   height: 64px;
   margin: auto;
-  background: url(/img/service1.svg) no-repeat center center/auto;
+  background: url(https://raw.githubusercontent.com/th0210/github.io/d4c943db87a6b9ad60d21fc3eb581f40efd33966/service1.svg) no-repeat center center/auto;
 }
 
 .service-item-img2 {
   width: 64px;
   height: 64px;
   margin: auto;
-  background: url(/img/service2.svg) no-repeat center center/auto;
+  background: url(https://raw.githubusercontent.com/th0210/github.io/d4c943db87a6b9ad60d21fc3eb581f40efd33966/service2.svg) no-repeat center center/auto;
 }
 
 .service-item-img3 {
   width: 64px;
   height: 64px;
   margin: auto;
-  background: url(/img/service3.svg) no-repeat center center/auto;
+  background: url(https://raw.githubusercontent.com/th0210/github.io/d4c943db87a6b9ad60d21fc3eb581f40efd33966/service3.svg) no-repeat center center/auto;
 }
 
 .service-item-head {
@@ -961,7 +961,7 @@ header {
 #faq
 ====================================================================*/
 .faq {
-  background: url(/img/qa-bg@2x.png) no-repeat center center/cover;
+  background: url(https://github.com/th0210/github.io/blob/main/qa-bg@2x.png?raw=true) no-repeat center center/cover;
   padding: 60px 40px 120px 0;
   max-width: 1280px;
   margin: auto;
@@ -974,7 +974,7 @@ header {
 }
 
 .faq-bg {
-  background: url(/img/qa-bg@2x.png) no-repeat center center/contain;
+  background: url(https://github.com/th0210/github.io/blob/main/qa-bg@2x.png?raw=true) no-repeat center center/contain;
   width: 100%;
   height: 952px;
   position: fixed;
@@ -1229,7 +1229,7 @@ header {
 #access
 ====================================================================*/
 .contact {
-  background: url(/img/contact-bg@2x.png) no-repeat center center/cover;
+  background: url(https://github.com/th0210/github.io/blob/main/contact-bg@2x.png?raw=true) no-repeat center center/cover;
   padding: 60px 0;
   margin: auto;
   max-width: 1280px;
@@ -1254,12 +1254,12 @@ header {
 
 .contact-head {
   padding: 60px 0;
-  background: url(/img/contact1@2x.png) no-repeat center center/contain;
+  background: url(https://github.com/th0210/github.io/blob/main/contact1@2x.png?raw=true) no-repeat center center/contain;
 }
 @media screen and (max-width: 767px) {
   .contact-head {
     padding: 40px 16px;
-    background: url(/img/contact1@2x.png) no-repeat center center/cover;
+    background: url(https://github.com/th0210/github.io/blob/main/contact1@2x.png?raw=true) no-repeat center center/cover;
   }
 }
 
